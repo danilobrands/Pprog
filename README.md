@@ -1,7 +1,7 @@
 # Paradigmas de Programação (Teoria e Prática) - 2018.Q2
-Prof. Diogo S. Martins
-Centro de Matemática, Computação e Cognição
-Universidade Federal do ABC
+Prof. Diogo S. Martins  
+Centro de Matemática, Computação e Cognição  
+Universidade Federal do ABC  
 
 Códigos-fonte utilizados em aula. Os códigos estão organizados nas pastas teoria e pratica, uma subpasta para cada semana.
 
