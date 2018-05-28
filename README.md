@@ -1,5 +1,5 @@
 # Paradigmas de Programação (Teoria e Prática) - 2018.Q2
-Prof. Diogo S. Martins e Prof. Emilio Francesquini
+Profs.: Diogo S. Martins e Emilio Francesquini
 Centro de Matemática, Computação e Cognição  
 Universidade Federal do ABC  
 
