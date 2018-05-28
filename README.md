@@ -1,5 +1,5 @@
 # Paradigmas de Programação (Teoria e Prática) - 2018.Q2
-Prof. Diogo S. Martins  
+Prof. Diogo S. Martins e Prof. Emilio Francesquini
 Centro de Matemática, Computação e Cognição  
 Universidade Federal do ABC  
 
@@ -8,7 +8,7 @@ Códigos-fonte utilizados em aula. Os códigos estão organizados nas pastas teo
 Para clonar esse repositório, você deve executar:
 
 ```
-git clone https://diogo_martins@bitbucket.org/diogo_martins/pp-2018q2-dsm.git
+git clone https://diogo_martins@bitbucket.org/diogo_martins/pp-2018q2-n.git
 ```
 
 Para atualizar o seu repositório local com os novos conteúdos publicados ao longo do quadrimestre, execute na raiz do repositório:
