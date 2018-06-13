@@ -18,4 +18,4 @@ git remote update
 git pull
 ```
 
-Os comandos de atualização só funcionarão satisfatoriamente se você não tiver editado arquivos no seu repositório local (pois você não tem autorização para realizar commits no repositório remoto). Nesse caso, basta remover o diretório do repositório local e clonar novamente.
+Os comandos de atualização só funcionarão satisfatoriamente se você não tiver editado arquivos no seu repositório local (pois você não tem autorização para realizar commits no repositório remoto). Nesse caso, a solução a mais simples é remover o diretório do repositório local e clonar novamente. A mais complicada é fazer um merge em seu repositório local.
