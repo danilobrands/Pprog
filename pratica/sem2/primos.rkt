@@ -1,6 +1,6 @@
 #lang racket
 
-;;; Lista os primos menores que n
+;;; Lista os primos menores que n.
 
 (require quickcheck)
 

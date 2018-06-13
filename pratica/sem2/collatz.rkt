@@ -2,6 +2,9 @@
 
 ;;; verifica a conjectura de collatz para naturais arbitrarios
 
+(require quickcheck)
+(require "paridade.rkt")
+
 (define (collatz-f n)
   (if (par? n)
       (/ n 2)

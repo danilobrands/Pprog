@@ -4,6 +4,8 @@
 
 (require quickcheck)
 
+(provide par?)
+
 (define (par? n)
   (= (modulo n 2) 0))
 
